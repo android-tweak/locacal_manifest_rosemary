@@ -9,7 +9,7 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="android-tweak" revision="lineage-21" />
+    <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="android-tweak" revision="afterlife-14" />
 
     <!-- Device - Common -->
 
