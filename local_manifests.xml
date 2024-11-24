@@ -4,12 +4,14 @@
 
     <!-- Remotes -->
     <remote name="android-tweak" fetch="https://github.com/android-tweak" clone-depth="1" />
+    <remote name="AfterlifeOS" fetch="https://github.com/AfterlifeOS" clone-depth="1" />
 
     <!-- Removals -->
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="android-tweak" revision="afterlife-14" />
+    <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="android-tweak" revision="lineage-21" />
+    <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="AfterlifeOS" revision="14.2" />
 
     <!-- Device - Common -->
 
