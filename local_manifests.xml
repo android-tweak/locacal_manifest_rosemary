@@ -17,7 +17,6 @@
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/rosemary" name="android_kernel_xiaomi_mt6785" remote="android-tweak" revision="lineage-21" />
-    <project path="kernel/xiaomi/mt6785" name="android_kernel_xiaomi_mt6785" remote="android-tweak" revision="lineage-21" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/rosemary" name="android_vendor_xiaomi_rosemary" remote="android-tweak" revision="14.0" />
